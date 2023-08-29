@@ -17,7 +17,6 @@ The Merch Flutter Mobile App offers the following features:
 
 ## Getting Started
 
-Feel free to see and use the app by downloading it on your mobile phone: [Download the App](/Apk/Merch-app.apk)
-<a href="Apk/Merch-app.apk" download>Download the App</a>
+Feel free to see and use the app by downloading it on your mobile phone: <a href="Apk/Merch-app.apk" download>Download the App</a>
 
 ## Preview
